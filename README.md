@@ -158,15 +158,15 @@ Aviation-Flight-Delay-Analytics/
 Files :
 -----
 
-The file used for the project can be downloaded [here](link)
+The file used for the project can be downloaded [here](https://github.com/Dhusyanth-R-S/Aviation-Flight-Delay-Analytics/blob/main/flight.csv)
 
-The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here](link)
+The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here](https://github.com/Dhusyanth-R-S/Aviation-Flight-Delay-Analytics/blob/main/Pandas_note_book.ipynb)
 
-The SQL table set up (Data Integrety ) can be downloaded  [here](link) 
+The SQL table set up (Data Integrety ) can be downloaded  [here](https://github.com/Dhusyanth-R-S/Aviation-Flight-Delay-Analytics/blob/main/setup.sql) 
 
-The SQL file analytical queries can be downloaded [here](link)
+The SQL file analytical queries can be downloaded [here](https://github.com/Dhusyanth-R-S/Aviation-Flight-Delay-Analytics/blob/main/queries.sql)
 
-The Power BI dashboard file can be downloaded [here](link)
+The Power BI dashboard file can be downloaded [here](https://github.com/Dhusyanth-R-S/Aviation-Flight-Delay-Analytics/blob/main/Aviation_Dashboard.pbix)
 
 
 About the Author
